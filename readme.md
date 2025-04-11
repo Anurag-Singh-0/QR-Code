@@ -13,7 +13,7 @@ https://qr-code-generator-anurag.vercel.app/
 - ✅ HTML5
 - ✅ CSS3
 - ✅ JavaScript (Vanilla)
-- ✅ [https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=example] – For generating QR codes
+- ✅ https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=example – For generating QR codes
 
 ---
 
@@ -28,4 +28,4 @@ https://qr-code-generator-anurag.vercel.app/
 
 ## 🖼️ Screenshots
 
-(Demo.png)
+![Preview](Demo.png)
