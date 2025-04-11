@@ -4,8 +4,20 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>QR Code Generator - Anurag</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    
+    <div class="container">
+        <div class="qr-box">
+            <p>Generate Your QR Code</p>
+            <input type="text" placeholder="Text or URL" id="qr-input">
+            <div class="qr-img-box">
+                <img src="" alt="" id="qr-img">
+            </div>
+            <button class="qr-btn" onclick="generateQrCode()">Generate QR</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
 </body>
 </html>
